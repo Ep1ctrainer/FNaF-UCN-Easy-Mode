@@ -1,0 +1,5 @@
+Drama del juego: El lore completo
+Reduciendo un problema: Sistema de cámaras, ventilación, animatronicos, AI level, PC, menu,
+menu de animatronicos, oficina, retroalimentación
+Recursos: Imagenes, sonidos 
+Width: 1920 Height: 1080
